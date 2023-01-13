@@ -4,4 +4,4 @@
 
 [Project document Link](https://docs.google.com/document/d/1UYc7GyfTzlMG_md_yOmAzXuvrwkC3450mukNmmLH7GI/edit?usp=sharing)
 
-Please click on the ``EAT-INI-main`` folder to check out the project code! 
+Please click on the ``EAT-INI-main/Project code`` folder to check out the project code! 
