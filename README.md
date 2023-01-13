@@ -4,8 +4,4 @@
 
 [Project document Link](https://docs.google.com/document/d/1UYc7GyfTzlMG_md_yOmAzXuvrwkC3450mukNmmLH7GI/edit?usp=sharing)
 
-Team Members: Barrett Li, Juni Heo, Ram Goenka, Qiran Pang
-
-Project Managers: Charles Xu, Meghna Gopal
-
 Please click on the ``EAT-INI-main`` folder to check out the project code! 
